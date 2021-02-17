@@ -1,4 +1,4 @@
-# ToDo-List_-React-Native
+# ToDo-List_React-Native
 A simple To do list App written in React Native
 - you can do the following: 
   - add a new task 
